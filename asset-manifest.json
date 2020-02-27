@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weddingwebsite/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/weddingwebsite/static/js/main.a1281801.chunk.js",
+    "main.js.map": "/weddingwebsite/static/js/main.a1281801.chunk.js.map",
+    "runtime-main.js": "/weddingwebsite/static/js/runtime-main.b44a3c47.js",
+    "runtime-main.js.map": "/weddingwebsite/static/js/runtime-main.b44a3c47.js.map",
+    "static/js/2.184e4515.chunk.js": "/weddingwebsite/static/js/2.184e4515.chunk.js",
+    "static/js/2.184e4515.chunk.js.map": "/weddingwebsite/static/js/2.184e4515.chunk.js.map",
+    "index.html": "/weddingwebsite/index.html",
+    "precache-manifest.9c89506ddff2a3c6f0d993f4555688b9.js": "/weddingwebsite/precache-manifest.9c89506ddff2a3c6f0d993f4555688b9.js",
+    "service-worker.js": "/weddingwebsite/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/weddingwebsite/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.184e4515.chunk.js.LICENSE.txt": "/weddingwebsite/static/js/2.184e4515.chunk.js.LICENSE.txt",
+    "static/media/hulta.jpg": "/weddingwebsite/static/media/hulta.e75a4315.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44a3c47.js",
+    "static/js/2.184e4515.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a1281801.chunk.js"
+  ]
+}
